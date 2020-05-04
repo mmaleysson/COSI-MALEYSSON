@@ -22,7 +22,18 @@ Le problème que pose les logiciels non libre est les sociétés sont en capacit
 
 Si les logiciels libres préocupaient essentiellement les utilisateurs d'ordinateurs, l'émergence des smartphone équipés d'internet amènent également à se poser la question du libre sur nos téléphones. 
 
-## I. Comment faire fonctionner son smartophone avec des logiciels libres?
+## II. Quels logiciels libres utiliser sur son smartphone ?
+
+Il s'agit désormais de donner des pistes pour utiliser des logiciels libres et open source sur l'objet que nous utilisons tous au quotidien : le smartphone. 
+Nous l'utilisons aussi bien à travers les réseaux sociaux, que les recherches internet et l'utilisation d'applications diverses.
+
+### Le surf libre et sécurisé
+
+* **Mozilla firefox**
+
+C'est certainement le navigateur libre le plus connu et disponible sur Android et IOS. 
+Porté par la fondation Mozilla, Firefox propose les mêmes fonctionnalités qu'un navigateur propriétaire : accès aux sites les plus visités en un clin d'oeil, marque-pages, liste de lecture, gestion de nombreux onglets, etc. 
+De plus, Mozilla propose des applications complémentaires comme Firefox Focus qui permet de bloquer les traqueurs de manière permanente et les publicités indésirables ou encore Firefox Lockwise qui permet de garder ses mots de passe Firefox sur différents appareils.
 
 ## Conclusion
 
