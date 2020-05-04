@@ -1,6 +1,6 @@
 ---
 title: "Les logiciels libres sur smartphone"
-author: "Maële Maleysson"
+author: "Maële Maleysson et Orianne Cosi"
 date: "5/4/2020"
 output: html_document
 ---
