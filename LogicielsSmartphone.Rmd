@@ -18,7 +18,7 @@ Les logiciels libres sont définit par 4 libertés :
 - liberté 1 : la liberté d'étudier le fonctionnement du programme, et de l'adapter à vos besoins. Pour ceci l'accès au code source est une condition requise.
 - liberté 2 : la liberté de redistribuer des copies, donc d'aider votre voisin.
 - liberté 3 : la liberté d'améliorer le programme et de publier vos améliorations, pour en faire profiter toute la communauté. Pour ceci l'accès au code source est une condition requise."
-Le problème que pose les logiciels non libre est les sociétés sont en capacité d'espionner ces utilisateurs.
+Le problème que pose les logiciels non libre est les sociétés sont en capacité d'espionner ces utilisateurs."
 
 Si les logiciels libres préocupaient essentiellement les utilisateurs d'ordinateurs, l'émergence des smartphone équipés d'internet amènent également à se poser la question du libre sur nos téléphones. 
 
